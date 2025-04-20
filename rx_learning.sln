@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rx_demo_01", "rx_demo_01\rx_demo_01.csproj", "{A966E116-808B-014E-0272-2CE3C27569DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A966E116-808B-014E-0272-2CE3C27569DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A966E116-808B-014E-0272-2CE3C27569DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A966E116-808B-014E-0272-2CE3C27569DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A966E116-808B-014E-0272-2CE3C27569DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AA8E726-CB7E-4793-BD7B-1F36F6D29139}
+	EndGlobalSection
+EndGlobal
